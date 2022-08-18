@@ -1,0 +1,22 @@
+{
+    "listValues": [
+        {
+            "label": "Create Commission Grid"
+        },
+        {
+            "label": "Update Commission Grid"
+        },
+        {
+            "label": "Check Commission Grid"
+        },
+        {
+            "label": "Delete Commission Grid"
+        },
+        {
+            "label": "Compute Commission"
+        },
+        {
+            "label": "Reconciliation"
+        }
+    ]
+}

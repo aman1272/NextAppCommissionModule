@@ -1,0 +1,138 @@
+{
+    "Motor": [
+        {
+            "field": "Insurer_Name",
+            "headerName": "Insurer name",
+            "width": 140,
+            "cellHeight": 5
+        },
+        {
+            "field": "State",
+            "headerName": " State",
+            "cellHeight": 5
+        },
+        {
+            "field": "City",
+            "headerName": " City"
+        },
+        {
+            "field": "RTO",
+            "headerName": "RTO Code",
+            "width": 135
+        },
+        {
+            "field": "Vehicle_Type",
+            "headerName": "Vehicle Type",
+            "editable": true,
+            "width": 140
+        },
+        {
+            "field": "Vehicle_subtype",
+            "headerName": "Vehicle subtype ",
+            "width": 140
+        },
+        {
+            "field": "Public_Private",
+            "headerName": " Public/Private",
+            "width": 140
+        },
+        {
+            "field": "Total_Business",
+            "headerName": "Total Business",
+            "width": 140
+        },
+        {
+            "field": "Package",
+            "headerName": "Package ",
+            "width": 140
+        },
+        {
+            "field": "CC",
+            "headerName": "CC "
+        },
+        {
+            "field": "Tonnage",
+            "headerName": "Tonnage",
+            "width": 140
+        },
+        {
+            "field": "Fuel_Type",
+            "headerName": "Fuel Type",
+            "width": 140
+        },
+        {
+            "field": "Policy_Type",
+            "headerName": "Policy Type",
+            "width": 140
+        },
+        {
+            "field": "Discount",
+            "headerName": "Discount",
+            "width": 140
+        },
+        {
+            "field": "Ownership",
+            "headerName": "Ownership",
+            "width": 140
+        },
+        {
+            "field": "NCB",
+            "headerName": "NCB",
+            "width": 140
+        },
+        {
+            "field": "Addon",
+            "headerName": "W/Wo Addon",
+            "width": 140
+        },
+        {
+            "field": "New_Old",
+            "headerName": "New/ Old",
+            "width": 140
+        },
+        {
+            "field": "Make",
+            "headerName": "Make",
+            "width": 140
+        },
+        {
+            "field": "Commission_TP",
+            "headerName": "Commission TP",
+            "pinned": "right",
+            "width": 148
+        },
+        {
+            "field": "Commission_OD",
+            "headerName": "Commission OD",
+            "pinned": "right",
+            "width": 150
+        }
+    ],
+    "HealthColumns": [
+        {
+            "field": "Insurer_Name",
+            "headerName": "Insurer Name",
+            "width": 140,
+            "cellEditor": "Insurer",
+            "hide": false
+        },
+        {
+            "field": "Insurance_Type",
+            "headerName": " Insurance Type"
+        },
+        {
+            "field": "Plan_Name",
+            "headerName": " Plan Name"
+        },
+        {
+            "field": "Premium_Paying_Term",
+            "headerName": "Premium Paying Term",
+            "width": 135
+        },
+        {
+            "field": "Age_Of_Policy",
+            "headerName": "Age Of Policy",
+            "width": 140
+        }
+    ]
+}

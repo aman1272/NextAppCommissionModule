@@ -1,0 +1,46 @@
+{
+    "commissionOption": [
+        {
+            "listValue": [
+                {
+                    "label": "Two Wheeler"
+                },
+                {
+                    "label": "Four Wheeler"
+                },
+                {
+                    "label": "CV"
+                },
+                {
+                    "label": "Health"
+                },
+                {
+                    "label": "Life"
+                }
+            ],
+            "lebel": "Product"
+        },
+        {
+            "listValue": [
+                {
+                    "label": "Agent"
+                },
+                {
+                    "label": "Insurer"
+                }
+            ],
+            "lebel": "Grid"
+        },
+        {
+            "listValue": [
+                {
+                    "label": "IRDA Grid"
+                },
+                {
+                    "label": "Previous Months"
+                }
+            ],
+            "lebel": "From"
+        }
+    ]
+}

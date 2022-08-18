@@ -1,0 +1,254 @@
+{
+    "Health": [
+        {
+            "Insurer": [
+                {
+                    "label": "Care"
+                },
+                {
+                    "label": "Star"
+                },
+                {
+                    "label": "Reliance"
+                },
+                {
+                    "label": "Go Digit"
+                },
+                {
+                    "label": "ICICI Pru"
+                },
+                {
+                    "label": "HDFC Ergo"
+                },
+                {
+                    "label": "SBI"
+                },
+                {
+                    "label": "Aditya Birla"
+                },
+                {
+                    "label": "NIVA Health Insurance"
+                },
+                {
+                    "label": "NIA"
+                },
+                {
+                    "label": "ICICI Pru"
+                },
+                {
+                    "label": "HDFC Life"
+                },
+                {
+                    "label": "Edelweiss Tokio"
+                },
+                {
+                    "label": "PNB Metlife "
+                }
+            ]
+        },
+        {
+            "InsuranceType": [
+                {
+                    "label": "Base Health"
+                },
+                {
+                    "label": "Base Health-Senior"
+                },
+                {
+                    "label": "Top Up"
+                },
+                {
+                    "label": "Go Digit"
+                },
+                {
+                    "label": "ICICI Pru"
+                },
+                {
+                    "label": "HDFC Ergo"
+                },
+                {
+                    "label": "SBI"
+                }
+            ]
+        },
+        {
+            "PlanName": [
+                {
+                    "label": "Care Health Care Insurance Plan"
+                },
+                {
+                    "label": "Care Health Joy (Maternity and New-born) Insurance Plan"
+                },
+                {
+                    "label": "Care Health Care Senior Health Insurance Plan"
+                },
+                {
+                    "label": "Care Health Enhance Super top-up plan"
+                },
+                {
+                    "label": "Care Health Care Freedom (Diabetes and Hypertension)"
+                },
+                {
+                    "label": "Care Health Critical Mediclaim Policy"
+                },
+                {
+                    "label": "Care Super Mediclaim Cancer"
+                },
+                {
+                    "label": "Care NCB Super premium"
+                },
+                {
+                    "label": "Care Health Care Heart Insurance Plan"
+                },
+                {
+                    "label": "Care Health Arogya Sanjeevani Policy"
+                },
+                {
+                    "label": "Care Health Operation Mediclaim Policy"
+                },
+                {
+                    "label": "Care Health Secure Policy"
+                },
+                {
+                    "label": "Care Health Corona Kavach Policy"
+                },
+                {
+                    "label": "Care Health Care Advantage"
+                },
+                {
+                    "label": "NCB Super premiun with UAR"
+                },
+                {
+                    "label": "Care Global"
+                },
+                {
+                    "label": "Comprehensive Individual"
+                },
+                {
+                    "label": "Comprehensive Floater"
+                },
+                {
+                    "label": "Family Health Optima"
+                },
+                {
+                    "label": "Medi Classic Individual (Basic)"
+                },
+                {
+                    "label": "RedCarpetFloater"
+                },
+                {
+                    "label": "RedCarpetIndividual"
+                },
+                {
+                    "label": "Medi Classic Individual (Gold)"
+                },
+                {
+                    "label": "Cancer Care"
+                },
+                {
+                    "label": "Senior Citizen Red Carpet"
+                },
+                {
+                    "label": "Star Diabetes"
+                },
+                {
+                    "label": "Healthgain plan"
+                },
+                {
+                    "label": "Health Super Top"
+                },
+                {
+                    "label": "Arogya Sanjeevani Plan"
+                },
+                {
+                    "label": "Silver"
+                },
+                {
+                    "label": "Gold"
+                },
+                {
+                    "label": "Diamond"
+                },
+                {
+                    "label": "Digit Health Care Plus"
+                },
+                {
+                    "label": "Prohealth Plus"
+                },
+                {
+                    "label": "Prohealth Protect"
+                },
+                {
+                    "label": "My Health Suraksha (SilverSmart) "
+                },
+                {
+                    "label": "My Health Suraksha (GoldSmart)"
+                },
+                {
+                    "label": "My Health Suraksha (PlatinumSmart)"
+                },
+                {
+                    "label": "My Health Medisure Top up"
+                },
+                {
+                    "label": "iCan Cancer"
+                },
+                {
+                    "label": "Arogya Sanjeevani Plan"
+                },
+                {
+                    "label": "Active Health Platinum - Enhanced"
+                },
+                {
+                    "label": "Active Health Platinum - Essential"
+                },
+                {
+                    "label": "ReAssure"
+                },
+                {
+                    "label": "1 Cr Super Saver"
+                },
+                {
+                    "label": "Floater Mediclaim"
+                },
+                {
+                    "label": "I Protect Smart"
+                },
+                {
+                    "label": "Click 2 Protect"
+                },
+                {
+                    "label": "Sanchay Plus"
+                },
+                {
+                    "label": "Saral Jeevan Bima plan"
+                },
+                {
+                    "label": "Total Protect Plus"
+                },
+                {
+                    "label": "POS Suraksha Plan"
+                },
+                {
+                    "label": "MEra Term Plan Plus"
+                },
+                {
+                    "label": "Guaranteed Savings Plan"
+                }
+            ]
+        },
+        {
+            "PremiumPayingTerm": [
+                {
+                    "label": "Single"
+                },
+                {
+                    "label": "Regular"
+                },
+                {
+                    "label": "Limited"
+                }
+            ]
+        }
+    ]
+}

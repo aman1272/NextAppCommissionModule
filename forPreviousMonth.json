@@ -1,0 +1,22 @@
+{
+    "forPreviousMonth": [
+        {
+            "label": "1 February to 29 February"
+        },
+        {
+            "label": "1 March to 31 March"
+        },
+        {
+            "label": "1 April to 30 April"
+        },
+        {
+            "label": "1 May to 31 May"
+        },
+        {
+            "label": "1 June to 30 June"
+        },
+        {
+            "label": "1 July to 31 July"
+        }
+    ]
+}
